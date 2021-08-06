@@ -1,3 +1,3 @@
 # LoginPage
 Created with CodeSandbox.
-Learning about event handling in React by dynamically setting the text and color of a button through mouseOver variable on setState hooks.
+Learning about event handling in forms through React by dynamically setting the user name, text and button color of a login form through various variable on setState hooks.
